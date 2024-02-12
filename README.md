@@ -1,12 +1,12 @@
 # Elevators_Game_Design_AI
 - Uses object oriented programming to build the following classes:
-  - Person.cpp
-  - Elevator.cpp
-  - Floor.cpp
-  - Move.cpp
-  - Building.cpp
-  - Game.cpp
-  - SatisfactionIndex.cpp
+  - Person
+  - Elevator
+  - Floor
+  - Move
+  - Building
+  - Game
+  - SatisfactionIndex
 - The elevators game allows the player to control elevators in a building to deliver the most people to their desired destination floors while minimizing the wait times (measured in anger levels) of those people.
 - There are 2 streams of information that the game will process while running:
   1) A game.in file that contains all of the future events that will appear in the game.
