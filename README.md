@@ -16,3 +16,6 @@ Language: C++
 - The Game class is the engine behind the elevators project and will be the main object used for how users interact with the program.
 - AI framework is implemented in AI.cpp.
 - Our AI focuses optimizing the speed and efficiency of the elevator. It combines the wants of player and optimizes the the order in which people are delivered to their respective floors.
+
+*Due to university policy code is not publicly available but can be sent upon request.
+
