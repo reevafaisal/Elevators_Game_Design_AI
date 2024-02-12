@@ -1,4 +1,5 @@
 # Elevators_Game_Design_AI
+Language: C++
 - Uses object oriented programming to build the following classes:
   - Person
   - Elevator
