@@ -14,4 +14,4 @@
 - With this information, the user will able to see what the current state of the Building looks like, and will be able to determine what they should command the elevators to do to respond to these incoming events.
 - The Game class is the engine behind the elevators project and will be the main object used for how users interact with the program.
 - AI framework is implemented in AI.cpp.
-- AI focuses on the speed and efficiency of the elevator. It combines the wants of player and optimizes the the order in which people are delivered to their respective floors.
+- Our AI focuses optimizing the speed and efficiency of the elevator. It combines the wants of player and optimizes the the order in which people are delivered to their respective floors.
