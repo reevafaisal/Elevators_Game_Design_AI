@@ -2,7 +2,7 @@
 Language: C++
 
 ## Overview
-Elevators_Game_Design_AI is a simulation game developed in C++ that challenges players to manage a set of elevators within a virtual building. The goal is to efficiently transport people to their desired floors, optimizing for speed and minimizing wait times, which are creatively measured in anger levels. This game employs object-oriented programming principles to model the intricate dynamics of elevator movement and human behavior within a building environment.
+This project is a simulation game developed in C++ that challenges players to manage a set of elevators within a virtual building. The goal is to efficiently transport people to their desired floors, optimizing for speed and minimizing wait times, which are creatively measured in anger levels. This game employs object-oriented programming principles to model the intricate dynamics of elevator movement and human behavior within a building environment.
 
 ## Key Features
 Object-Oriented Design: Leveraging C++ to implement a robust system of classes representing different aspects of the game, including people, elevators, floors, and more.
