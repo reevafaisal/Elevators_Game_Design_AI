@@ -4,6 +4,9 @@ Language: C++
 ## Overview
 This project is a simulation game developed in C++ that challenges players to manage a set of elevators within a virtual building. The goal is to efficiently transport people to their desired floors, optimizing for speed and minimizing wait times, which are creatively measured in anger levels. This game employs object-oriented programming principles to model the intricate dynamics of elevator movement and human behavior within a building environment.
 
+## Note
+Due to university policy, I cannot share the assignment-specific file, though it is available for viewing upon request. 
+
 ## Key Features
 Object-Oriented Design: Leveraging C++ to implement a robust system of classes representing different aspects of the game, including people, elevators, floors, and more.
 AI-Driven Elevator Management: An AI framework that analyzes player inputs and incoming events to optimize elevator operations, balancing speed and passenger satisfaction.
@@ -28,5 +31,4 @@ Real-Time Strategy: The game challenges players to think ahead, anticipate futur
 ## AI Implementation
 The AI framework within AI.cpp is designed to analyze both the current state of the building and the player's input to make decisions that optimize the operation of the elevators. It aims to reduce wait times by prioritizing moves that deliver the maximum number of people to their destinations efficiently while minimizing their anger levels.
 
-*Due to university policy code is not publicly available but can be sent upon request.
 
